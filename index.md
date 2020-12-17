@@ -1,3 +1,3 @@
-# Hello There
+# Jacob Mazur
 
 <img src="images/kenobi.jpg">
